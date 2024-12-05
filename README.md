@@ -11,7 +11,7 @@ NOTE : Migrations are not created I have used the typeorm sync functinoality to 
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/naveedharri/NestJS-Backend.git
 ```
 
 Go to the project directory
